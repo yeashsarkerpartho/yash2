@@ -1,0 +1,100 @@
+[
+    {
+        "category": "Kooku",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 5.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://i.ibb.co/cDRDszL/Chull-Loveria-2023-S01-E01-Hindi-Kooku-Hot-Web-Series-720p-Watch-Online.jpg",
+        "premium": true,
+        "quality": "720p",
+        "releaseDate": "2023",
+        "resolution": "720p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/640d6f3455a71bf6530edd9d/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://i.ibb.co/cDRDszL/Chull-Loveria-2023-S01-E01-Hindi-Kooku-Hot-Web-Series-720p-Watch-Online.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/640d6f3455a71bf6530edd9d/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "",
+        "title": "Chull-Loveria (2023)",
+        "triler": ""
+    },
+    {
+        "category": "Kooku",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 5.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://i.ibb.co/v3qGM2b/63f442854360be0a85af2bd6.jpg",
+        "premium": true,
+        "quality": "720p",
+        "releaseDate": "2023",
+        "resolution": "720p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/64003b4e3c352a5ce7fa43ea/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://i.ibb.co/v3qGM2b/63f442854360be0a85af2bd6.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/64003b4e3c352a5ce7fa43ea/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/64003b4e3c352a5ce7fa43ea/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://i.ibb.co/v3qGM2b/63f442854360be0a85af2bd6.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/64003b4e3c352a5ce7fa43ea/1/2",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "",
+        "title": "Chull Dhulai (2023)",
+        "triler": ""
+    }
+]

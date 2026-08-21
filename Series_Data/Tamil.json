@@ -1,0 +1,44 @@
+[
+    {
+        "category": "Tamil",
+        "director": "N/A",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": 7.7,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://mymoviebazar.net/api/upload 1/others/images/gallery/1683549963839.4864.gXxY9JQOXFBmedggz2fu5YKjIm.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2023",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6458ede44081f84cb10786d8/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://mymoviebazar.net/api/upload 1/others/images/gallery/1683549963839.4864.gXxY9JQOXFBmedggz2fu5YKjIm.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6458ede44081f84cb10786d8/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 3"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "An affair threatens the lives of Dan Gallagher and his wife, Beth,  in this deep-dive reimagining of the classic psychosexual thriller which explores fatal attraction and the timeless themes of marriage and infidelity through the lens of modern attitudes toward strong women, personality disorders and coercive control.",
+        "title": "Geetha Subramanyam | SE1EP1 | S03EFull (2023)",
+        "triler": ""
+    }
+]

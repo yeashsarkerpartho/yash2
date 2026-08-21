@@ -1,0 +1,114 @@
+[
+    {
+        "category": "Wwe",
+        "director": "N/A",
+        "genre": [
+            "Action"
+        ],
+        "imdbRating": 5.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYjstaTvdJoTPYrIYL6jhXj6EY5.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661283f19a1b8e81277c1486/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYjstaTvdJoTPYrIYL6jhXj6EY5.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661283f19a1b8e81277c1486/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661283f19a1b8e81277c1486/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYjstaTvdJoTPYrIYL6jhXj6EY5.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661283f19a1b8e81277c1486/1/2",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "it takes place on the Lincoln Financial Field",
+        "title": "WWE WrestleMania XL Saturday | SE1EP1 | Night 01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Wwe",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 8.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://core.crazyhd.com/torrentimg/d7598eaaecc859bbbbff73750b90238def214104.jpg",
+        "premium": false,
+        "quality": "1080p",
+        "releaseDate": "2023",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/642938b3f6e0520b8a25ce88/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://core.crazyhd.com/torrentimg/d7598eaaecc859bbbbff73750b90238def214104.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/642938b3f6e0520b8a25ce88/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/642938b3f6e0520b8a25ce88/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://core.crazyhd.com/torrentimg/d7598eaaecc859bbbbff73750b90238def214104.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/642938b3f6e0520b8a25ce88/1/2",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "",
+        "title": "WWE WrestleMania 39 | SE1EP1 | 39.Night1 (2023)",
+        "triler": ""
+    }
+]
