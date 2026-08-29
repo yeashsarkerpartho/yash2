@@ -1,6 +1,118 @@
 [
     {
         "category": "Hindi",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 6.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Missing-Mahila/6a8d9e2317c731107eaabc66/large_2_3_1787754504955.jpg?1787754504",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2026",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Missing-Mahila/6a8d9e2317c731107eaabc66/large_2_3_1787754504955.jpg?1787754504",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Missing-Mahila/6a8d9e2317c731107eaabc66/large_2_3_1787754504955.jpg?1787754504",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Missing-Mahila/6a8d9e2317c731107eaabc66/large_2_3_1787754504955.jpg?1787754504",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Missing-Mahila/6a8d9e2317c731107eaabc66/large_2_3_1787754504955.jpg?1787754504",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Missing-Mahila/6a8d9e2317c731107eaabc66/large_2_3_1787754504955.jpg?1787754504",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://d11ro0k7wh29su.cloudfront.net/shemoutputimages/Missing-Mahila/6a8d9e2317c731107eaabc66/large_2_3_1787754504955.jpg?1787754504",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a916b81ce5c9af6a0ae3549/1/6",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "",
+        "title": "Missing Mahila (2026)",
+        "triler": ""
+    },
+    {
+        "category": "Hindi",
         "director": "Palak Bhambri",
         "genre": [
             "Family",
