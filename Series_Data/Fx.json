@@ -25994,62 +25994,6 @@
     },
     {
         "category": "Fx",
-        "director": "N/A",
-        "genre": [
-            "Documentary"
-        ],
-        "imdbRating": 10.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XFAe9VqjJ9F7QozukQtFdnARQP.jpg",
-        "premium": true,
-        "quality": "1080p",
-        "releaseDate": "2023",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/644d7406bb8f625b5c4c877c/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XFAe9VqjJ9F7QozukQtFdnARQP.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/644d7406bb8f625b5c4c877c/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/644d7406bb8f625b5c4c877c/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XFAe9VqjJ9F7QozukQtFdnARQP.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/644d7406bb8f625b5c4c877c/1/2",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Explore the history of activist Afeni Shakur and hip-hop icon Tupac Shakur, two voices that could not be silenced. Told through the eyes of the people who knew them best, this series is an intimate wide-angle portrait of the most inspiring and dangerous mother-son duo in American history, whose unified message of freedom, equality, persecution and justice are more relevant today than ever.",
-        "title": "Dear Mama: The Saga of Afeni and Tupac Shakur (2023)",
-        "triler": ""
-    },
-    {
-        "category": "Fx",
         "director": "Josh Friedman",
         "genre": [
             "Sci-Fi & Fantasy",
