@@ -1,6 +1,104 @@
 [
     {
         "category": "Zee5",
+        "director": "Ambrish Verma",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": 7.46,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVhtGciLKyD2J9ooNCiKLSO3cSE.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2022",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVhtGciLKyD2J9ooNCiKLSO3cSE.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVhtGciLKyD2J9ooNCiKLSO3cSE.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVhtGciLKyD2J9ooNCiKLSO3cSE.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVhtGciLKyD2J9ooNCiKLSO3cSE.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVhtGciLKyD2J9ooNCiKLSO3cSE.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6a9d0f840320e6e316af8c81/1/5",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Dejected after his girlfriend's parents decide to get her married to a more qualified man, Monu, a small-town guy, shifts to NCR for his MBA. Will he find a way to survive in the big city?",
+        "title": "NCR Days (2022)",
+        "triler": ""
+    },
+    {
+        "category": "Zee5",
         "director": "N/A",
         "genre": [
             "Crime"
