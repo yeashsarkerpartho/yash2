@@ -636,48 +636,6 @@
         "genre": [
             "Unknown"
         ],
-        "imdbRating": 5.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://mlsbd.gay/wp-content/uploads/2023/06/Wrong-Milanti-2023-S01-Bengali-Klikk-Web-Series-WEB-DL-H264-AAC-1080p-720p-480p-Download.jpg",
-        "premium": true,
-        "quality": "720p",
-        "releaseDate": "2023",
-        "resolution": "720p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6492cb59fa44f2127a9eaa14/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://mlsbd.gay/wp-content/uploads/2023/06/Wrong-Milanti-2023-S01-Bengali-Klikk-Web-Series-WEB-DL-H264-AAC-1080p-720p-480p-Download.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6492cb59fa44f2127a9eaa14/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "",
-        "title": "Wrong Milanti | SE1EP1 | S01 (2023)",
-        "triler": ""
-    },
-    {
-        "category": "Klikk",
-        "director": "N/A",
-        "genre": [
-            "Unknown"
-        ],
         "imdbRating": 6.0,
         "imdbVotes": 0,
         "language": "Unknown",
