@@ -1836,7 +1836,7 @@
         "genre": [
             "Unknown"
         ],
-        "imdbRating": 8.8,
+        "imdbRating": 6.0,
         "imdbVotes": 0,
         "language": "Unknown",
         "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjJjNjQ5ODEtNmVmNC00YmQ5LWIwOWQtZTU0MDA0OGIzNDE2XkEyXkFqcGdeQXVyNTkwMzcwMTg@._V1_.jpg",
@@ -2168,119 +2168,6 @@
     },
     {
         "category": "Addatimes",
-        "director": "N/A",
-        "genre": [
-            "Mystery",
-            "Crime"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
-        "premium": true,
-        "quality": "1080p",
-        "releaseDate": "2020",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/2",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/3",
-                        "duration": "--:--",
-                        "episode_title": "E3",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/3",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/4",
-                        "duration": "--:--",
-                        "episode_title": "E4",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/4",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/5",
-                        "duration": "--:--",
-                        "episode_title": "E5",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/5",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/6",
-                        "duration": "--:--",
-                        "episode_title": "E6",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/6",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Chronicles the adventures of Prodosh Chandra Mitra a Bengali private detective along with his sidekick Topesh and friend Lalmohan Ganguly",
-        "title": "Feluda Pherot | SE1EP1 | Feluda Pherot Chhinnomostar Obhishap S01E01 (2020)",
-        "triler": ""
-    },
-    {
-        "category": "Addatimes",
         "director": "Arnab Riingo Banerjee",
         "genre": [
             "Crime",
@@ -2474,6 +2361,119 @@
         "status": "on",
         "storyline": "Based on real events that took place in 1971-1984, The Senapatis Vol-1 follows the journey of a refugee family from erstwhile East Pakistan who travels to Kolkata, India, only to become the country's leading underworld force of the time.",
         "title": "The Senapatis Vol-1 | SE1EP1 | The Senapatis S02E01 (2019)",
+        "triler": ""
+    },
+    {
+        "category": "Addatimes",
+        "director": "N/A",
+        "genre": [
+            "Mystery",
+            "Crime"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2020",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SXvTFbiDlvMidEBMb6Rqm2GB5y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/62d54cab410aa6d707c0060b/1/6",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Chronicles the adventures of Prodosh Chandra Mitra a Bengali private detective along with his sidekick Topesh and friend Lalmohan Ganguly",
+        "title": "Feluda Pherot | SE1EP1 | Feluda Pherot Chhinnomostar Obhishap S01E01 (2020)",
         "triler": ""
     },
     {

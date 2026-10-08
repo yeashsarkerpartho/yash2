@@ -1836,6 +1836,48 @@
     },
     {
         "category": "Jio",
+        "director": "Karmanya Ahuja",
+        "genre": [
+            "Crime"
+        ],
+        "imdbRating": 2.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBK2U64dLK52NjKJr5lay2IQvGD.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556337a8919c414d66e733/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBK2U64dLK52NjKJr5lay2IQvGD.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556337a8919c414d66e733/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Newlyweds Adhir and Zoya Irani's Maldives trip turns tragic when Adhir's body is found buried on a beach. Suspicion falls on their friends, family, and Zoya herself as the investigation unfolds.",
+        "title": "Honeymoon Photographer | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Jio",
         "director": "Raj Kumar Gupta",
         "genre": [
             "Drama"
@@ -1878,14 +1920,14 @@
     },
     {
         "category": "Jio",
-        "director": "Karmanya Ahuja",
+        "director": "Arati Raval, Prateek Arora, Karan Vyas, Ajayvir Singh, Priyanka Setia",
         "genre": [
-            "Crime"
+            "Drama"
         ],
-        "imdbRating": 2.0,
+        "imdbRating": 0.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBK2U64dLK52NjKJr5lay2IQvGD.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDq2YRGdUTG8JATKfWc6TAVTpNd.jpg",
         "premium": true,
         "quality": "HD",
         "releaseDate": "2024",
@@ -1895,7 +1937,7 @@
                 "episodes": [
                     {
                         "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556337a8919c414d66e733/1/1",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755635aa9c4f5ebdd1ed9d3/1/1",
                         "duration": "--:--",
                         "episode_title": "E1",
                         "headers": {
@@ -1903,8 +1945,8 @@
                             "Origin": "",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
                         },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBK2U64dLK52NjKJr5lay2IQvGD.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556337a8919c414d66e733/1/1",
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDq2YRGdUTG8JATKfWc6TAVTpNd.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755635aa9c4f5ebdd1ed9d3/1/1",
                         "view": 0
                     }
                 ],
@@ -1914,8 +1956,8 @@
         "sliderStatus": "off",
         "sliderUrl": "",
         "status": "on",
-        "storyline": "Newlyweds Adhir and Zoya Irani's Maldives trip turns tragic when Adhir's body is found buried on a beach. Suspicion falls on their friends, family, and Zoya herself as the investigation unfolds.",
-        "title": "Honeymoon Photographer | SE1EP1 | S01 (2024)",
+        "storyline": "After his rockstar best friend- Mauj is killed in a concert, Raghav Rai Singh leaves the legacy his father, Manavendra Rai Singh, has planned for him at Galaxy records and sets out on a journey to accomplish Mauj’s goal i.e. starting a new kind of record label called 'Khalbali Records' that puts artists first- setting the stage for an epic conflict with the entire music establishment.",
+        "title": "Khalbali Records | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -1959,48 +2001,6 @@
         "status": "on",
         "storyline": "Suspended Inspector Gadar Singh is summoned to a crime scene where the Chandel family is found hanging. One of them survives, leading to media frenzy and speculation of murder.",
         "title": "Gaanth | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Jio",
-        "director": "Arati Raval, Prateek Arora, Karan Vyas, Ajayvir Singh, Priyanka Setia",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDq2YRGdUTG8JATKfWc6TAVTpNd.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755635aa9c4f5ebdd1ed9d3/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDq2YRGdUTG8JATKfWc6TAVTpNd.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755635aa9c4f5ebdd1ed9d3/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "After his rockstar best friend- Mauj is killed in a concert, Raghav Rai Singh leaves the legacy his father, Manavendra Rai Singh, has planned for him at Galaxy records and sets out on a journey to accomplish Mauj’s goal i.e. starting a new kind of record label called 'Khalbali Records' that puts artists first- setting the stage for an epic conflict with the entire music establishment.",
-        "title": "Khalbali Records | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

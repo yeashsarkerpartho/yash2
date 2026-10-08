@@ -148,48 +148,6 @@
         "imdbRating": 0.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFk53KrtwQimY3cdBEB4SFhxauO.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6753ed40f1df135d5ee3893a/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFk53KrtwQimY3cdBEB4SFhxauO.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6753ed40f1df135d5ee3893a/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "NCR follows Inspector Vikram's intense investigation into the Nithari murders, revealing dark secrets and suspects, challenging every truth.",
-        "title": "NCR - Nithari Crime Report | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Atrangii",
-        "director": "N/A",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
         "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AvAora6bZfla00NentxIjfvla1.jpg",
         "premium": true,
         "quality": "HD",
@@ -277,6 +235,48 @@
         "status": "on",
         "storyline": "Raghav, a musician with past trauma, finds healing in Sur's love, but will fate allow their love to flourish?",
         "title": "Tera Ishq Mera Fitoor (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Atrangii",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFk53KrtwQimY3cdBEB4SFhxauO.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6753ed40f1df135d5ee3893a/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFk53KrtwQimY3cdBEB4SFhxauO.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6753ed40f1df135d5ee3893a/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "NCR follows Inspector Vikram's intense investigation into the Nithari murders, revealing dark secrets and suspects, challenging every truth.",
+        "title": "NCR - Nithari Crime Report | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

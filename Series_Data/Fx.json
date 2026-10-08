@@ -3990,147 +3990,6 @@
     },
     {
         "category": "Fx",
-        "director": "Benjamin Cavell",
-        "genre": [
-            "Mystery",
-            "Sci-Fi & Fantasy"
-        ],
-        "imdbRating": 8.1,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-        "premium": true,
-        "quality": "1080p",
-        "releaseDate": "2025",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/2",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/3",
-                        "duration": "--:--",
-                        "episode_title": "E3",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/3",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/4",
-                        "duration": "--:--",
-                        "episode_title": "E4",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/4",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/5",
-                        "duration": "--:--",
-                        "episode_title": "E5",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/5",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/6",
-                        "duration": "--:--",
-                        "episode_title": "E6",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/6",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/7",
-                        "duration": "--:--",
-                        "episode_title": "E7",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/7",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/8",
-                        "duration": "--:--",
-                        "episode_title": "E8",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/8",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-        "title": "The Institute (2025)",
-        "triler": ""
-    },
-    {
-        "category": "Fx",
         "director": "N/A",
         "genre": [
             "Drama",
@@ -4324,6 +4183,147 @@
         "status": "on",
         "storyline": "In Vinnytsia, Sasha Motsak was the star of the school in the morning, but by evening, everything went wrong. Eva Horbatyuk is Sasha’s main rival, and she won’t back down until everyone around her acknowledges her as the best. Their struggle becomes the beginning of the teenage coming-of-age story. The students seek answers to questions they cannot discuss with adults, addressing important issues that concern everyone during adolescence. Sex, bullying, learning, and even acne - all this and much more in an honest and realistic series.",
         "title": "Sex, Insta & ZNO (2020)",
+        "triler": ""
+    },
+    {
+        "category": "Fx",
+        "director": "Benjamin Cavell",
+        "genre": [
+            "Mystery",
+            "Sci-Fi & Fantasy"
+        ],
+        "imdbRating": 8.1,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2025",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/6",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/7",
+                        "duration": "--:--",
+                        "episode_title": "E7",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/7",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/8",
+                        "duration": "--:--",
+                        "episode_title": "E8",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/68aaf8a28edb3a5fbbe52058/1/8",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+        "title": "The Institute (2025)",
         "triler": ""
     },
     {
@@ -19867,6 +19867,146 @@
     },
     {
         "category": "Fx",
+        "director": "Katja Juras, Jonas Alexander Arnby, Anne Lindblom",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": 5.2,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+        "premium": true,
+        "quality": "720p",
+        "releaseDate": "2024",
+        "resolution": "720p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/6",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/7",
+                        "duration": "--:--",
+                        "episode_title": "E7",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/7",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/8",
+                        "duration": "--:--",
+                        "episode_title": "E8",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/8",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "When a police officer with a tablet addiction sees a dead boy, she questions her sanity, but she realizes that she is facing victims of unsolved crimes and that her past can help to catch a killer on the loose.",
+        "title": "Veronika (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Fx",
         "director": "Oleg Malovichko",
         "genre": [
             "Drama",
@@ -20004,146 +20144,6 @@
         "status": "on",
         "storyline": "The life pages of a man who changed the world but paid back everything he had. Leon Trotsky is being interviewed in Mexico city of the year 1940 by Canadian journalist Frank Jackson. During eight days they have eight interview sessions revealing the true face of Comrade Trotsky.",
         "title": "Trotsky (2017)",
-        "triler": ""
-    },
-    {
-        "category": "Fx",
-        "director": "Katja Juras, Jonas Alexander Arnby, Anne Lindblom",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": 5.2,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-        "premium": true,
-        "quality": "720p",
-        "releaseDate": "2024",
-        "resolution": "720p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/2",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/3",
-                        "duration": "--:--",
-                        "episode_title": "E3",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/3",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/4",
-                        "duration": "--:--",
-                        "episode_title": "E4",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/4",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/5",
-                        "duration": "--:--",
-                        "episode_title": "E5",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/5",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/6",
-                        "duration": "--:--",
-                        "episode_title": "E6",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/6",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/7",
-                        "duration": "--:--",
-                        "episode_title": "E7",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/7",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/8",
-                        "duration": "--:--",
-                        "episode_title": "E8",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHTNOWUU6bt4BYZT3y0cBnxbboW.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6626ab6b2b4076633d1fbf67/1/8",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "When a police officer with a tablet addiction sees a dead boy, she questions her sanity, but she realizes that she is facing victims of unsolved crimes and that her past can help to catch a killer on the loose.",
-        "title": "Veronika (2024)",
         "triler": ""
     },
     {

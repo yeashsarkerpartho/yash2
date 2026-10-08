@@ -705,6 +705,48 @@
         "category": "Hungama",
         "director": "N/A",
         "genre": [
+            "Mystery"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idbkHNpB4VhdyQjtQ0qccieSIKz.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675562dba9c4f5ebdd1ed97b/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idbkHNpB4VhdyQjtQ0qccieSIKz.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675562dba9c4f5ebdd1ed97b/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Ishq Gunah is an anthology of four stories exploring the complexities of love. Each tale delves into different stages and shades of love, revealing how it can be more than it appears—sometimes masking darker emotions like obsession, lust, and revenge. This urban romantic thriller is filled with unexpected twists, keeping viewers on the edge as it explores the lengths people will go to for love.",
+        "title": "Ishq Gunah | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hungama",
+        "director": "N/A",
+        "genre": [
             "Unknown"
         ],
         "imdbRating": 0.0,
@@ -783,48 +825,6 @@
         "status": "on",
         "storyline": "Kinisha Dandekar has built a happy life for herself. She has some great friends and a job she does with utmost efficiency. Her life seems to be going as per plan, until one small incident threatens to shatter her world, forcing her to come face to face with her dark past. So, when her worst nightmare resurfaces, threatening to destroy everything she has built, she must confront it head on, once and for all.",
         "title": "Flight Attendant | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hungama",
-        "director": "N/A",
-        "genre": [
-            "Mystery"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idbkHNpB4VhdyQjtQ0qccieSIKz.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675562dba9c4f5ebdd1ed97b/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/idbkHNpB4VhdyQjtQ0qccieSIKz.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675562dba9c4f5ebdd1ed97b/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Ishq Gunah is an anthology of four stories exploring the complexities of love. Each tale delves into different stages and shades of love, revealing how it can be more than it appears—sometimes masking darker emotions like obsession, lust, and revenge. This urban romantic thriller is filled with unexpected twists, keeping viewers on the edge as it explores the lengths people will go to for love.",
-        "title": "Ishq Gunah | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

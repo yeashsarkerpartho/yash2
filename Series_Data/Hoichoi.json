@@ -4380,6 +4380,48 @@
     },
     {
         "category": "Hoichoi",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "A chance meeting at a train station after years apart reignites old emotions between Lalita and Shekhar, sparking a tumultuous journey of love, jealousy, and complex bonds. Based on the timeless novel by Sarat Chandra Chattopadhyay, Parineeta, streaming from 15 August, only on hoichoi.",
+        "title": "Parineeta | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
         "director": "Anam Biswas",
         "genre": [
             "Crime"
@@ -4429,48 +4471,6 @@
         "imdbRating": 0.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "A chance meeting at a train station after years apart reignites old emotions between Lalita and Shekhar, sparking a tumultuous journey of love, jealousy, and complex bonds. Based on the timeless novel by Sarat Chandra Chattopadhyay, Parineeta, streaming from 15 August, only on hoichoi.",
-        "title": "Parineeta | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hoichoi",
-        "director": "N/A",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
         "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vwAuVFw2x9UJF8RvBDZXywkbQ4.jpg",
         "premium": true,
         "quality": "HD",
@@ -4502,48 +4502,6 @@
         "status": "on",
         "storyline": "In the mystical realm of gods and demons, Mahamaya, the divine feminine, emerges to restore balance, confronting ancient evils with her many forms and boundless power. From showcasing Sati's sacrifice to Shiv’s fury, this series celebrates the Aadishakti's power, showing that without her, life ceases to exist.",
         "title": "Mohishashur Mordini | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hoichoi",
-        "director": "Sauvik Kundu",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Kaberi, a severely oppressed woman on the run from her abusive husband, develops a special bond with Shampa, one of her students. When Shampa faces an evil conspiracy, Kaberi's quest to save her becomes the fight for her own existence.",
-        "title": "Kaberi | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -4586,6 +4544,48 @@
         "status": "on",
         "storyline": "Mamun, the prime suspect in a double murder, faces off with a serial killer and the system to which he has dedicated his life, while the clock keeps ticking on his quest to prove his innocence.",
         "title": "Golam Mamun | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
+        "director": "Sauvik Kundu",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Kaberi, a severely oppressed woman on the run from her abusive husband, develops a special bond with Shampa, one of her students. When Shampa faces an evil conspiracy, Kaberi's quest to save her becomes the fight for her own existence.",
+        "title": "Kaberi | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

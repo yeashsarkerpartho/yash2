@@ -3278,49 +3278,6 @@
         "category": "Amazon_minitv",
         "director": "N/A",
         "genre": [
-            "Drama",
-            "Comedy"
-        ],
-        "imdbRating": 4.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwzGmfPOLB5Haww8KsT32QPWgK9.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67536116f1df135d5ee37d0d/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwzGmfPOLB5Haww8KsT32QPWgK9.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67536116f1df135d5ee37d0d/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Four radically different 9th-grade girls forge a bond within the walls of an all-girls convent school, embarking on a journey of friendship, self-discovery, and shared adventures that define their transformative school years.",
-        "title": "Sisterhood | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Amazon_minitv",
-        "director": "N/A",
-        "genre": [
             "Drama"
         ],
         "imdbRating": 5.5,
@@ -3376,6 +3333,49 @@
         "status": "on",
         "storyline": "In Cole Town, Aira Rajkishore, trapped by duty to her ailing mother, faces the return of Marcus, who seeks to rekindle their past romance. Amidst mysterious deaths in town, they must navigate danger and protect loved ones. As they confront the town's dark secrets, can they save their love, or will Cole Town's mysteries tear them apart? Aira and Marcus's fate hangs in the balance.",
         "title": "Tujhpe Main Fida | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Amazon_minitv",
+        "director": "N/A",
+        "genre": [
+            "Drama",
+            "Comedy"
+        ],
+        "imdbRating": 4.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwzGmfPOLB5Haww8KsT32QPWgK9.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67536116f1df135d5ee37d0d/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwzGmfPOLB5Haww8KsT32QPWgK9.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67536116f1df135d5ee37d0d/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Four radically different 9th-grade girls forge a bond within the walls of an all-girls convent school, embarking on a journey of friendship, self-discovery, and shared adventures that define their transformative school years.",
+        "title": "Sisterhood | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

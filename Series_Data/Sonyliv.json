@@ -2314,6 +2314,48 @@
     },
     {
         "category": "Sonyliv",
+        "director": "N/A",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Balu, Ravi and Meenakshi, three employees at an IT company, are desperate to be 'benched', each for their own personal reasons. However, when confronted by their flaws, can each of them learn to overcome their issues and grow? 'Bench Life' stars Dr. Rajendra Prasad, Vaibhav, Charan Peri, Ritika Singh, Aakanksha Singh, Nayan Sarika, Venkatesh Kakumanu and Tanikella Bharani.",
+        "title": "Bench Life | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
         "director": "Surya Manoj Vangala",
         "genre": [
             "Crime",
@@ -2353,48 +2395,6 @@
         "status": "on",
         "storyline": "Young, socially awkward yet morally grounded SI cadet Brinda stumbles upon a brutal murder with a chilling modus operandi. As the killer slips through her grasp, she faces personal and bureaucratic turmoil, but the hardest challenge is the moral reckoning that could define her career and conscience. Will Brinda uphold justice, or lose herself in the chaos closer to home?",
         "title": "Brinda | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
-        "director": "N/A",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Balu, Ravi and Meenakshi, three employees at an IT company, are desperate to be 'benched', each for their own personal reasons. However, when confronted by their flaws, can each of them learn to overcome their issues and grow? 'Bench Life' stars Dr. Rajendra Prasad, Vaibhav, Charan Peri, Ritika Singh, Aakanksha Singh, Nayan Sarika, Venkatesh Kakumanu and Tanikella Bharani.",
-        "title": "Bench Life | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -2569,6 +2569,49 @@
     },
     {
         "category": "Sonyliv",
+        "director": "Khyati Anand-Puthran",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Shows the unpredictable lives of three besties- Radhika, Avinash and Suman, as they embark on the wildest adventure of all: raising kids.",
+        "title": "Raat Jawaan Hai | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
         "director": "Swapnaneel Jayakar, Dilip Jha",
         "genre": [
             "Drama"
@@ -2719,49 +2762,6 @@
         "status": "on",
         "storyline": "A young Murli Sharma relocates to Patna from Ratlam with his family after his father transfers there. While he struggles with disconnect and isolation from his peers, he encounters Nandini and their blossoming friendship turns into love for Murli. Will Nandini reciprocate his feelings?",
         "title": "Pehla Pyaar - Less Than 1% Chance-E02 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
-        "director": "Khyati Anand-Puthran",
-        "genre": [
-            "Comedy",
-            "Drama"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Shows the unpredictable lives of three besties- Radhika, Avinash and Suman, as they embark on the wildest adventure of all: raising kids.",
-        "title": "Raat Jawaan Hai | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
