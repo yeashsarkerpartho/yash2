@@ -4179,48 +4179,6 @@
     },
     {
         "category": "Mxplayer",
-        "director": "Luvkush Gupta, Nihal Khan",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": 6.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rp4P7W3l7nspeCvCvaNwR0zo1o.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675563a41569602e7020fbc5/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rp4P7W3l7nspeCvCvaNwR0zo1o.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675563a41569602e7020fbc5/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "\"Fisaddi\" follows brothers Goldie and Vimal at University, where academic struggles, romance, and societal expectations test their bond. As Vimal finds unexpected success, Goldie faces repeated failures.",
-        "title": "Fisaddi | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Mxplayer",
         "director": "N/A",
         "genre": [
             "Comedy",
@@ -4260,6 +4218,48 @@
         "status": "on",
         "storyline": "A chance encounter collides the fates of Naman and Kavya on a flight propelling them on an unforeseen journey of love. But as time unfolds, will they surpass the turbulent complexities of their contrasting worlds and backgrounds to embrace the love that’s in the air?",
         "title": "Ishq in the Air | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Mxplayer",
+        "director": "Luvkush Gupta, Nihal Khan",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": 6.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rp4P7W3l7nspeCvCvaNwR0zo1o.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675563a41569602e7020fbc5/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rp4P7W3l7nspeCvCvaNwR0zo1o.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675563a41569602e7020fbc5/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "\"Fisaddi\" follows brothers Goldie and Vimal at University, where academic struggles, romance, and societal expectations test their bond. As Vimal finds unexpected success, Goldie faces repeated failures.",
+        "title": "Fisaddi | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

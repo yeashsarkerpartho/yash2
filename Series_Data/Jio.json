@@ -1793,6 +1793,48 @@
     },
     {
         "category": "Jio",
+        "director": "Raj Kumar Gupta",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": 7.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyXfVqYIBg1ly8xQuJtf79vM2k8.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556380f1df135d5ee5b1b3/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyXfVqYIBg1ly8xQuJtf79vM2k8.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556380f1df135d5ee5b1b3/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Pill unravels the deep-set rot in the Indian pharmaceutical industry. Dr. Prakash along with three whistle-blowers face a powerful pharma giant Forever Cure to expose the corrupt nexus of pharma, middlemen, and doctors through which a pill reaches the common man. Will the good be able to overcome the evil?",
+        "title": "Pill | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Jio",
         "director": "Aniruddha Guha, Srijit Mukherji",
         "genre": [
             "Drama",
@@ -1878,14 +1920,15 @@
     },
     {
         "category": "Jio",
-        "director": "Raj Kumar Gupta",
+        "director": "Soham Bhattacharyya",
         "genre": [
-            "Drama"
+            "Drama",
+            "Crime"
         ],
-        "imdbRating": 7.0,
+        "imdbRating": 6.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyXfVqYIBg1ly8xQuJtf79vM2k8.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
         "premium": true,
         "quality": "HD",
         "releaseDate": "2024",
@@ -1895,7 +1938,7 @@
                 "episodes": [
                     {
                         "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556380f1df135d5ee5b1b3/1/1",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
                         "duration": "--:--",
                         "episode_title": "E1",
                         "headers": {
@@ -1903,8 +1946,8 @@
                             "Origin": "",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
                         },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyXfVqYIBg1ly8xQuJtf79vM2k8.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556380f1df135d5ee5b1b3/1/1",
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
                         "view": 0
                     }
                 ],
@@ -1914,8 +1957,8 @@
         "sliderStatus": "off",
         "sliderUrl": "",
         "status": "on",
-        "storyline": "Pill unravels the deep-set rot in the Indian pharmaceutical industry. Dr. Prakash along with three whistle-blowers face a powerful pharma giant Forever Cure to expose the corrupt nexus of pharma, middlemen, and doctors through which a pill reaches the common man. Will the good be able to overcome the evil?",
-        "title": "Pill | SE1EP1 | S01 (2024)",
+        "storyline": "Suspended Inspector Gadar Singh is summoned to a crime scene where the Chandel family is found hanging. One of them survives, leading to media frenzy and speculation of murder.",
+        "title": "Gaanth | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -1958,49 +2001,6 @@
         "status": "on",
         "storyline": "After his rockstar best friend- Mauj is killed in a concert, Raghav Rai Singh leaves the legacy his father, Manavendra Rai Singh, has planned for him at Galaxy records and sets out on a journey to accomplish Mauj’s goal i.e. starting a new kind of record label called 'Khalbali Records' that puts artists first- setting the stage for an epic conflict with the entire music establishment.",
         "title": "Khalbali Records | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Jio",
-        "director": "Soham Bhattacharyya",
-        "genre": [
-            "Drama",
-            "Crime"
-        ],
-        "imdbRating": 6.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Suspended Inspector Gadar Singh is summoned to a crime scene where the Chandel family is found hanging. One of them survives, leading to media frenzy and speculation of murder.",
-        "title": "Gaanth | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

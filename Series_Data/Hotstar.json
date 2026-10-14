@@ -4223,6 +4223,118 @@
     },
     {
         "category": "Hotstar",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+        "premium": true,
+        "quality": "720p",
+        "releaseDate": "2025",
+        "resolution": "720p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/6",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Behind a mask of beauty lies a darkness she's ready to unleash.",
+        "title": "Mrs. Deshpande (2025)",
+        "triler": ""
+    },
+    {
+        "category": "Hotstar",
         "director": "P. R. Arun",
         "genre": [
             "Drama",
@@ -4360,118 +4472,6 @@
         "status": "on",
         "storyline": "Limited series directed by P R Arun starring Nivin Pauly, Narain, Rajit Kapur, Veena Nandakumar, Shruti Ramachandran.",
         "title": "Pharma (2025)",
-        "triler": ""
-    },
-    {
-        "category": "Hotstar",
-        "director": "N/A",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
-        "premium": true,
-        "quality": "720p",
-        "releaseDate": "2025",
-        "resolution": "720p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/2",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/3",
-                        "duration": "--:--",
-                        "episode_title": "E3",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/3",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/4",
-                        "duration": "--:--",
-                        "episode_title": "E4",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/4",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/5",
-                        "duration": "--:--",
-                        "episode_title": "E5",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/5",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/6",
-                        "duration": "--:--",
-                        "episode_title": "E6",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGwhPjt3ofRv85H1iSOaAlqN24B.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6944f52a349a3e497c060d45/1/6",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Behind a mask of beauty lies a darkness she's ready to unleash.",
-        "title": "Mrs. Deshpande (2025)",
         "triler": ""
     },
     {
@@ -6270,178 +6270,6 @@
     },
     {
         "category": "Hotstar",
-        "director": "Teja Marni",
-        "genre": [
-            "Mystery",
-            "Sci-Fi & Fantasy",
-            "Comedy"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe3mkoBzaeIO9XGV3oiS7XY0a38.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675562c2a9c4f5ebdd1ed965/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe3mkoBzaeIO9XGV3oiS7XY0a38.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675562c2a9c4f5ebdd1ed965/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "A spirit named Maya, cursed to live among mortals as punishment for a wicked deed, embarks on a mission to sacrifice 100 men to save her kind, but her resolve wavers when she encounters a kind-hearted young man named Krishna.",
-        "title": "Yakshini | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hotstar",
-        "director": "Anish Kuruvilla",
-        "genre": [
-            "Crime"
-        ],
-        "imdbRating": 1.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSqvYQ6448HO85GZcDyGJZ1uweL.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675562aa1bd06316f74b6bde/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSqvYQ6448HO85GZcDyGJZ1uweL.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675562aa1bd06316f74b6bde/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "A lavish inheritance and a pharma empire lure a dead scientist's relatives to a remote island. The excitement turns into horror when they realise it's a trap.",
-        "title": "The Mystery of Moksha Island | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hotstar",
-        "director": "N/A",
-        "genre": [
-            "Drama",
-            "Mystery"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpEktlupJJk9pWNxJDwVqPTejX.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556273a6f679272b2d88cf/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpEktlupJJk9pWNxJDwVqPTejX.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556273a6f679272b2d88cf/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Shanmugam does not spare the rod and spoil his children. But despite his strict nature, they go on a joyride on his bike and get lost. What will he do now?",
-        "title": "Parachute | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hotstar",
-        "director": "Nithin Renji Panicker",
-        "genre": [
-            "Comedy",
-            "Drama"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1iphrEF1hoQeTQWeF2xPgP8Ug.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556266a9c4f5ebdd1ed93f/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1iphrEF1hoQeTQWeF2xPgP8Ug.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556266a9c4f5ebdd1ed93f/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Story revolves around Nagendran and his wives who he marries due to different circumstances.",
-        "title": "Nagendran’s Honeymoons | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hotstar",
         "director": "N/A",
         "genre": [
             "Action & Adventure"
@@ -6680,14 +6508,16 @@
     },
     {
         "category": "Hotstar",
-        "director": "Aarushi Nishank",
+        "director": "Teja Marni",
         "genre": [
+            "Mystery",
+            "Sci-Fi & Fantasy",
             "Comedy"
         ],
-        "imdbRating": 8.0,
+        "imdbRating": 0.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x19oZ3M4NxYSNFQRmVRnhknSUow.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe3mkoBzaeIO9XGV3oiS7XY0a38.jpg",
         "premium": true,
         "quality": "HD",
         "releaseDate": "2024",
@@ -6697,7 +6527,7 @@
                 "episodes": [
                     {
                         "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755623c1bd06316f74b6bb8/1/1",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675562c2a9c4f5ebdd1ed965/1/1",
                         "duration": "--:--",
                         "episode_title": "E1",
                         "headers": {
@@ -6705,8 +6535,8 @@
                             "Origin": "",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
                         },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x19oZ3M4NxYSNFQRmVRnhknSUow.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755623c1bd06316f74b6bb8/1/1",
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe3mkoBzaeIO9XGV3oiS7XY0a38.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675562c2a9c4f5ebdd1ed965/1/1",
                         "view": 0
                     }
                 ],
@@ -6716,8 +6546,136 @@
         "sliderStatus": "off",
         "sliderUrl": "",
         "status": "on",
-        "storyline": "﻿Siblings turn rivals when they are put on an inheritance race by reviving a down-in-the-dumps hotel in the hills. Who will emerge victorious?",
-        "title": "Life Hill Gayi | SE1EP1 | S01 (2024)",
+        "storyline": "A spirit named Maya, cursed to live among mortals as punishment for a wicked deed, embarks on a mission to sacrifice 100 men to save her kind, but her resolve wavers when she encounters a kind-hearted young man named Krishna.",
+        "title": "Yakshini | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hotstar",
+        "director": "Anish Kuruvilla",
+        "genre": [
+            "Crime"
+        ],
+        "imdbRating": 1.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSqvYQ6448HO85GZcDyGJZ1uweL.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675562aa1bd06316f74b6bde/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSqvYQ6448HO85GZcDyGJZ1uweL.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675562aa1bd06316f74b6bde/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "A lavish inheritance and a pharma empire lure a dead scientist's relatives to a remote island. The excitement turns into horror when they realise it's a trap.",
+        "title": "The Mystery of Moksha Island | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hotstar",
+        "director": "N/A",
+        "genre": [
+            "Drama",
+            "Mystery"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpEktlupJJk9pWNxJDwVqPTejX.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556273a6f679272b2d88cf/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpEktlupJJk9pWNxJDwVqPTejX.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556273a6f679272b2d88cf/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Shanmugam does not spare the rod and spoil his children. But despite his strict nature, they go on a joyride on his bike and get lost. What will he do now?",
+        "title": "Parachute | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hotstar",
+        "director": "Nithin Renji Panicker",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1iphrEF1hoQeTQWeF2xPgP8Ug.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556266a9c4f5ebdd1ed93f/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1iphrEF1hoQeTQWeF2xPgP8Ug.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556266a9c4f5ebdd1ed93f/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Story revolves around Nagendran and his wives who he marries due to different circumstances.",
+        "title": "Nagendran’s Honeymoons | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -6976,6 +6934,48 @@
     },
     {
         "category": "Hotstar",
+        "director": "Aarushi Nishank",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbRating": 8.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x19oZ3M4NxYSNFQRmVRnhknSUow.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755623c1bd06316f74b6bb8/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x19oZ3M4NxYSNFQRmVRnhknSUow.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755623c1bd06316f74b6bb8/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "﻿Siblings turn rivals when they are put on an inheritance race by reviving a down-in-the-dumps hotel in the hills. Who will emerge victorious?",
+        "title": "Life Hill Gayi | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hotstar",
         "director": "Mike Kelley",
         "genre": [
             "Drama"
@@ -7145,49 +7145,6 @@
     },
     {
         "category": "Hotstar",
-        "director": "Radha Mohan",
-        "genre": [
-            "Comedy",
-            "Drama"
-        ],
-        "imdbRating": 6.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H9iN0Cs6D0wMnE1Psdq1xUUPhY.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675561da1bd06316f74b6b9b/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H9iN0Cs6D0wMnE1Psdq1xUUPhY.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675561da1bd06316f74b6b9b/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "An orphaned street vendor unexpectedly becomes part of his wealthy stepbrother's family, navigating the challenges of gaining acceptance in his new circumstances.",
-        "title": "Chutney Sambar | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hotstar",
         "director": "Renzil D'Silva",
         "genre": [
             "Drama",
@@ -7315,6 +7272,92 @@
     },
     {
         "category": "Hotstar",
+        "director": "Radha Mohan",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": 6.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H9iN0Cs6D0wMnE1Psdq1xUUPhY.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675561da1bd06316f74b6b9b/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4H9iN0Cs6D0wMnE1Psdq1xUUPhY.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675561da1bd06316f74b6b9b/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "An orphaned street vendor unexpectedly becomes part of his wealthy stepbrother's family, navigating the challenges of gaining acceptance in his new circumstances.",
+        "title": "Chutney Sambar | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hotstar",
+        "director": "Najeem Koya",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "imdbRating": 7.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9EdxlAReZ27m29kTP0cqaQOeoe.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675561a41bd06316f74b6b89/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9EdxlAReZ27m29kTP0cqaQOeoe.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675561a41bd06316f74b6b89/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Enter a cradle of mysteries where a man with a dark past manipulates multiple lives through a series of cryptic letters and deadly games.",
+        "title": "1000 Babies | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hotstar",
         "director": "S. S. Rajamouli, Sharad Devarajan",
         "genre": [
             "Animation",
@@ -7412,49 +7455,6 @@
         "status": "on",
         "storyline": "A dark chapter in the Mahishmati kingdom's history that became its greatest challenge and shaped the future of its two princes, Baahubali and Bhallaladeva.",
         "title": "Baahubali: Crown of Blood-E02 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hotstar",
-        "director": "Najeem Koya",
-        "genre": [
-            "Crime",
-            "Drama"
-        ],
-        "imdbRating": 7.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9EdxlAReZ27m29kTP0cqaQOeoe.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675561a41bd06316f74b6b89/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9EdxlAReZ27m29kTP0cqaQOeoe.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675561a41bd06316f74b6b89/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Enter a cradle of mysteries where a man with a dark past manipulates multiple lives through a series of cryptic letters and deadly games.",
-        "title": "1000 Babies | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

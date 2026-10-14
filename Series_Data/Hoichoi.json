@@ -4387,7 +4387,7 @@
         "imdbRating": 0.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vwAuVFw2x9UJF8RvBDZXywkbQ4.jpg",
         "premium": true,
         "quality": "HD",
         "releaseDate": "2024",
@@ -4397,7 +4397,7 @@
                 "episodes": [
                     {
                         "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755600d1bd06316f74b6a8d/1/1",
                         "duration": "--:--",
                         "episode_title": "E1",
                         "headers": {
@@ -4405,8 +4405,8 @@
                             "Origin": "",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
                         },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vwAuVFw2x9UJF8RvBDZXywkbQ4.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755600d1bd06316f74b6a8d/1/1",
                         "view": 0
                     }
                 ],
@@ -4416,8 +4416,8 @@
         "sliderStatus": "off",
         "sliderUrl": "",
         "status": "on",
-        "storyline": "A chance meeting at a train station after years apart reignites old emotions between Lalita and Shekhar, sparking a tumultuous journey of love, jealousy, and complex bonds. Based on the timeless novel by Sarat Chandra Chattopadhyay, Parineeta, streaming from 15 August, only on hoichoi.",
-        "title": "Parineeta | SE1EP1 | S01 (2024)",
+        "storyline": "In the mystical realm of gods and demons, Mahamaya, the divine feminine, emerges to restore balance, confronting ancient evils with her many forms and boundless power. From showcasing Sati's sacrifice to Shiv’s fury, this series celebrates the Aadishakti's power, showing that without her, life ceases to exist.",
+        "title": "Mohishashur Mordini | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -4460,48 +4460,6 @@
         "status": "on",
         "storyline": "A local goon in Barisal vows to his expecting wife to abandon his life of crime. However, fate deals a cruel blow as he finds himself falsely implicated in a high-profile murder and is forced to be on the run with his wife, as the law and an unknown nemesis close in on them!",
         "title": "Rongila Kitab | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hoichoi",
-        "director": "N/A",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vwAuVFw2x9UJF8RvBDZXywkbQ4.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755600d1bd06316f74b6a8d/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vwAuVFw2x9UJF8RvBDZXywkbQ4.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755600d1bd06316f74b6a8d/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "In the mystical realm of gods and demons, Mahamaya, the divine feminine, emerges to restore balance, confronting ancient evils with her many forms and boundless power. From showcasing Sati's sacrifice to Shiv’s fury, this series celebrates the Aadishakti's power, showing that without her, life ceases to exist.",
-        "title": "Mohishashur Mordini | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -4592,12 +4550,12 @@
         "category": "Hoichoi",
         "director": "N/A",
         "genre": [
-            "Drama"
+            "Unknown"
         ],
         "imdbRating": 0.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SkCC85U4SB240ZfxeFDVZU6Meu.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
         "premium": true,
         "quality": "HD",
         "releaseDate": "2024",
@@ -4607,7 +4565,7 @@
                 "episodes": [
                     {
                         "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67555fde1569602e7020f9fd/1/1",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
                         "duration": "--:--",
                         "episode_title": "E1",
                         "headers": {
@@ -4615,8 +4573,8 @@
                             "Origin": "",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
                         },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SkCC85U4SB240ZfxeFDVZU6Meu.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67555fde1569602e7020f9fd/1/1",
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eajAtqx7vvJJC1z92VSZZJILxI.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755617aa6f679272b2d8884/1/1",
                         "view": 0
                     }
                 ],
@@ -4626,8 +4584,8 @@
         "sliderStatus": "off",
         "sliderUrl": "",
         "status": "on",
-        "storyline": "Aupala, an actress in her late 20s, wants to leave her acting job and wants a life free from the constraints of the limelight. Trapped in a disorienting maze, Aupala grapples with her sense of self, she tries to make sense of the situation but fails. How will she get away?",
-        "title": "Boka Bakshote Bondi | SE1EP1 | S01 (2024)",
+        "storyline": "A chance meeting at a train station after years apart reignites old emotions between Lalita and Shekhar, sparking a tumultuous journey of love, jealousy, and complex bonds. Based on the timeless novel by Sarat Chandra Chattopadhyay, Parineeta, streaming from 15 August, only on hoichoi.",
+        "title": "Parineeta | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -4671,6 +4629,48 @@
         "status": "on",
         "storyline": "When Bijoya's son slips into a coma after suffering a suspicious fall at his college, the resolute mother pulls all stops to uncover a cycle of ragging and corruption and bring justice to her son.",
         "title": "Bijoya | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
+        "director": "N/A",
+        "genre": [
+            "Drama"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SkCC85U4SB240ZfxeFDVZU6Meu.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67555fde1569602e7020f9fd/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SkCC85U4SB240ZfxeFDVZU6Meu.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67555fde1569602e7020f9fd/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Aupala, an actress in her late 20s, wants to leave her acting job and wants a life free from the constraints of the limelight. Trapped in a disorienting maze, Aupala grapples with her sense of self, she tries to make sense of the situation but fails. How will she get away?",
+        "title": "Boka Bakshote Bondi | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
