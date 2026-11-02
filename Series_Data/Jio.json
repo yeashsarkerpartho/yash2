@@ -1835,49 +1835,6 @@
     },
     {
         "category": "Jio",
-        "director": "Aniruddha Guha, Srijit Mukherji",
-        "genre": [
-            "Drama",
-            "Crime"
-        ],
-        "imdbRating": 5.3,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO6Qz9R1C5rh4lGaT5YRvPc2IH3.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755638cf1df135d5ee5b1b9/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO6Qz9R1C5rh4lGaT5YRvPc2IH3.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755638cf1df135d5ee5b1b9/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Set in 1990s Lonpur, Bengal, “Shekhar Home” combines suspense & comedy as eccentric Shekhar and his new housemate Jayavrat solve a variety of cases while interacting with a vibrant cast of characters in a charming, pre-technology era.",
-        "title": "Shekhar Home | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Jio",
         "director": "Karmanya Ahuja",
         "genre": [
             "Crime"
@@ -1916,49 +1873,6 @@
         "status": "on",
         "storyline": "Newlyweds Adhir and Zoya Irani's Maldives trip turns tragic when Adhir's body is found buried on a beach. Suspicion falls on their friends, family, and Zoya herself as the investigation unfolds.",
         "title": "Honeymoon Photographer | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Jio",
-        "director": "Soham Bhattacharyya",
-        "genre": [
-            "Drama",
-            "Crime"
-        ],
-        "imdbRating": 6.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Suspended Inspector Gadar Singh is summoned to a crime scene where the Chandel family is found hanging. One of them survives, leading to media frenzy and speculation of murder.",
-        "title": "Gaanth | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -2005,6 +1919,49 @@
     },
     {
         "category": "Jio",
+        "director": "Aniruddha Guha, Srijit Mukherji",
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "imdbRating": 5.3,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO6Qz9R1C5rh4lGaT5YRvPc2IH3.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755638cf1df135d5ee5b1b9/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO6Qz9R1C5rh4lGaT5YRvPc2IH3.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755638cf1df135d5ee5b1b9/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Set in 1990s Lonpur, Bengal, “Shekhar Home” combines suspense & comedy as eccentric Shekhar and his new housemate Jayavrat solve a variety of cases while interacting with a vibrant cast of characters in a charming, pre-technology era.",
+        "title": "Shekhar Home | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Jio",
         "director": "N/A",
         "genre": [
             "Drama"
@@ -2043,6 +2000,49 @@
         "status": "on",
         "storyline": "Set in 1998 before the historic Kargil war, four boys set foot in the prestigious Armed Forces Academy. Cadets is a coming-of-age story about a world where boys become men of honour.",
         "title": "Cadets | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Jio",
+        "director": "Soham Bhattacharyya",
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "imdbRating": 6.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlljjwb4mU60xFEEjgnJ9dU6I5M.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755632df1df135d5ee5b19c/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Suspended Inspector Gadar Singh is summoned to a crime scene where the Chandel family is found hanging. One of them survives, leading to media frenzy and speculation of murder.",
+        "title": "Gaanth | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

@@ -8,6 +8,118 @@
         "imdbRating": 5.0,
         "imdbVotes": 0,
         "language": "Unknown",
+        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSwkU8LB3IFSVsC2Pfdbmz-S0R1BqKdlQ-2W5X4noWJ-VUYlAbmYB_o4&s=10",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2026",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSwkU8LB3IFSVsC2Pfdbmz-S0R1BqKdlQ-2W5X4noWJ-VUYlAbmYB_o4&s=10",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSwkU8LB3IFSVsC2Pfdbmz-S0R1BqKdlQ-2W5X4noWJ-VUYlAbmYB_o4&s=10",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSwkU8LB3IFSVsC2Pfdbmz-S0R1BqKdlQ-2W5X4noWJ-VUYlAbmYB_o4&s=10",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSwkU8LB3IFSVsC2Pfdbmz-S0R1BqKdlQ-2W5X4noWJ-VUYlAbmYB_o4&s=10",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSwkU8LB3IFSVsC2Pfdbmz-S0R1BqKdlQ-2W5X4noWJ-VUYlAbmYB_o4&s=10",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSwkU8LB3IFSVsC2Pfdbmz-S0R1BqKdlQ-2W5X4noWJ-VUYlAbmYB_o4&s=10",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6ad107523cf68da67bf4f842/1/6",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "",
+        "title": "Amanush (2026)",
+        "triler": ""
+    },
+    {
+        "category": "Klikk",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 5.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
         "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gonJMLZjkf4JnW1HKWC6vdRE9v3.jpg",
         "premium": true,
         "quality": "720p",

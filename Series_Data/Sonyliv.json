@@ -2398,6 +2398,48 @@
         "category": "Sonyliv",
         "director": "N/A",
         "genre": [
+            "Drama"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Balu, Ravi and Meenakshi, three employees at an IT company, are desperate to be 'benched', each for their own personal reasons. However, when confronted by their flaws, can each of them learn to overcome their issues and grow? 'Bench Life' stars Dr. Rajendra Prasad, Vaibhav, Charan Peri, Ritika Singh, Aakanksha Singh, Nayan Sarika, Venkatesh Kakumanu and Tanikella Bharani.",
+        "title": "Bench Life | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
+        "director": "N/A",
+        "genre": [
             "Drama",
             "Mystery",
             "Crime"
@@ -2436,48 +2478,6 @@
         "status": "on",
         "storyline": "An enigmatic woman's arrival in a seemingly idyllic housing estate in Goa threatens to expose the residents' darkest secrets. As they clamour to unravel her mysteries, all their lies and hidden identities begin destroying them, culminating in absolute horror. Neha Sharma, Amruta Khanvilkar, Sharib Hashmi, Chandan Roy Sanyal, Shruti Seth, Sushant Divgikar and Purab Kohli star in the crime-thriller of a 36-day journey to the fateful moment that upends the lives of Goa’s Casa De Magnolia residents.",
         "title": "36 Days | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
-        "director": "N/A",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Balu, Ravi and Meenakshi, three employees at an IT company, are desperate to be 'benched', each for their own personal reasons. However, when confronted by their flaws, can each of them learn to overcome their issues and grow? 'Bench Life' stars Dr. Rajendra Prasad, Vaibhav, Charan Peri, Ritika Singh, Aakanksha Singh, Nayan Sarika, Venkatesh Kakumanu and Tanikella Bharani.",
-        "title": "Bench Life | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -2570,6 +2570,48 @@
         "category": "Sonyliv",
         "director": "N/A",
         "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "A young boy navigating the complexities of childhood in a simpler time, as he embarks on a quest for identity and belonging.",
+        "title": "Lampan | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
+        "director": "N/A",
+        "genre": [
             "Crime",
             "Drama"
         ],
@@ -2613,48 +2655,6 @@
         "category": "Sonyliv",
         "director": "N/A",
         "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "A young boy navigating the complexities of childhood in a simpler time, as he embarks on a quest for identity and belonging.",
-        "title": "Lampan | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
-        "director": "N/A",
-        "genre": [
             "Reality"
         ],
         "imdbRating": 0.0,
@@ -2691,6 +2691,49 @@
         "status": "on",
         "storyline": "The 2-time Emmy award nominee Million Dollar Listing is now in India, where top agents sell the nation's most luxurious homes.",
         "title": "Million Dollar Listing: India (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
+        "director": "Khyati Anand-Puthran",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Shows the unpredictable lives of three besties- Radhika, Avinash and Suman, as they embark on the wildest adventure of all: raising kids.",
+        "title": "Raat Jawaan Hai | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -2849,49 +2892,6 @@
     },
     {
         "category": "Sonyliv",
-        "director": "Khyati Anand-Puthran",
-        "genre": [
-            "Comedy",
-            "Drama"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juIV2AiEshBETv0aAd8AlCuarmY.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675356c1a8919c414d64b171/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Shows the unpredictable lives of three besties- Radhika, Avinash and Suman, as they embark on the wildest adventure of all: raising kids.",
-        "title": "Raat Jawaan Hai | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
         "director": "Dr. Neerja Birla",
         "genre": [
             "Drama"
@@ -2930,6 +2930,147 @@
         "status": "on",
         "storyline": "An Anthology series that highlights the stigmas around mental health and mental illness in India. According to the latest World Health Organization report on depression, almost 7.5% of Indians suffer from major or minor mental disorders that require expert intervention. The brainchild of Dr. Neerja Birla, Zindaginama strives towards creating an environment where mental health dialogue is encouraged. It's okay not to be okay. Six different stories from six creators with a common theme - to encourage us to be sensitive to our environment and peers and to show openness to acknowledging mental health struggles in our lives.",
         "title": "Zindaginama | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
+        "director": "N/A",
+        "genre": [
+            "Drama",
+            "Crime"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/6",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/7",
+                        "duration": "--:--",
+                        "episode_title": "E7",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/7",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/8",
+                        "duration": "--:--",
+                        "episode_title": "E8",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/8",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Always around but never seen, these unsung protectors of the nation are continuously working towards India’s protection behind the façade of being common folks. Starring Divyanka Tripathi and Eijaz Khan, ‘Adrishyam – The Invisible Heroes’ is the story of IB47, a premier intelligence agency in India whose members are fighting the never-ending war on terror and protecting the nation while balancing their personal lives and keeping their identities secret.",
+        "title": "Adrishyam – The Invisible Heroes (2024)",
         "triler": ""
     },
     {
@@ -3412,147 +3553,6 @@
         "category": "Sonyliv",
         "director": "N/A",
         "genre": [
-            "Drama",
-            "Crime"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-        "premium": true,
-        "quality": "1080p",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/2",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/3",
-                        "duration": "--:--",
-                        "episode_title": "E3",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/3",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/4",
-                        "duration": "--:--",
-                        "episode_title": "E4",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/4",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/5",
-                        "duration": "--:--",
-                        "episode_title": "E5",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/5",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/6",
-                        "duration": "--:--",
-                        "episode_title": "E6",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/6",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/7",
-                        "duration": "--:--",
-                        "episode_title": "E7",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/7",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/8",
-                        "duration": "--:--",
-                        "episode_title": "E8",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j80LHvYcfL3PKYw1ZkMPbSaMeFi.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/661972a15a2a6acb73b7015a/1/8",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Always around but never seen, these unsung protectors of the nation are continuously working towards India’s protection behind the façade of being common folks. Starring Divyanka Tripathi and Eijaz Khan, ‘Adrishyam – The Invisible Heroes’ is the story of IB47, a premier intelligence agency in India whose members are fighting the never-ending war on terror and protecting the nation while balancing their personal lives and keeping their identities secret.",
-        "title": "Adrishyam – The Invisible Heroes (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
-        "director": "N/A",
-        "genre": [
             "Comedy",
             "Drama"
         ],
@@ -3979,6 +3979,118 @@
     },
     {
         "category": "Sonyliv",
+        "director": "Vishal Bhardwaj",
+        "genre": [
+            "Mystery"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2023",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/6",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "A rich man dead, a town full of suspects, narratives filled with lies and an innocent convict. How will Charlie navigate through the mystery when every face hides a secret?",
+        "title": "Charlie Chopra & The Mystery Of Solang Valley (2023)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
         "director": "N/A",
         "genre": [
             "Reality"
@@ -4255,118 +4367,6 @@
         "status": "on",
         "storyline": "This talent show features a huge variety of talent ranging from the mundane to the bizarre from heart-stopping feats to the seemingly impossible giving Indians a platform to showcase their talents like no other.",
         "title": "India's Got Talent (2023)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
-        "director": "Vishal Bhardwaj",
-        "genre": [
-            "Mystery"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
-        "premium": true,
-        "quality": "1080p",
-        "releaseDate": "2023",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/2",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/3",
-                        "duration": "--:--",
-                        "episode_title": "E3",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/3",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/4",
-                        "duration": "--:--",
-                        "episode_title": "E4",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/4",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/5",
-                        "duration": "--:--",
-                        "episode_title": "E5",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/5",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/6",
-                        "duration": "--:--",
-                        "episode_title": "E6",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2DOkod6Y0QLo5HJ14M4ggae64A.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/651335d415528718da43e61f/1/6",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "A rich man dead, a town full of suspects, narratives filled with lies and an innocent convict. How will Charlie navigate through the mystery when every face hides a secret?",
-        "title": "Charlie Chopra & The Mystery Of Solang Valley (2023)",
         "triler": ""
     },
     {
