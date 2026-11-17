@@ -3,6 +3,118 @@
         "category": "Hoichoi",
         "director": "Sayantan Ghosal",
         "genre": [
+            "Mystery"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG6nFfGmT6JutjTxinI2ny92YSX.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2026",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG6nFfGmT6JutjTxinI2ny92YSX.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG6nFfGmT6JutjTxinI2ny92YSX.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG6nFfGmT6JutjTxinI2ny92YSX.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG6nFfGmT6JutjTxinI2ny92YSX.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG6nFfGmT6JutjTxinI2ny92YSX.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yG6nFfGmT6JutjTxinI2ny92YSX.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6aedce1521db97ec3f0f7522/1/6",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "When a mysterious curse threatens the woman he once loved, astrologer Bhabataran enters a haunted wilderness where an ancient cult worships a bloodthirsty deity. As a forbidden ritual draws near, he must confront a terrifying legacy buried for centuries.",
+        "title": "Kauriburir Mandir (2026)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
+        "director": "Sayantan Ghosal",
+        "genre": [
             "Drama"
         ],
         "imdbRating": 6.0,
@@ -1927,6 +2039,118 @@
     },
     {
         "category": "Hoichoi",
+        "director": "Parambrata Chatterjee",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
+        "premium": true,
+        "quality": "1080p",
+        "releaseDate": "2026",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/1",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/2",
+                        "duration": "--:--",
+                        "episode_title": "E2",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/2",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/3",
+                        "duration": "--:--",
+                        "episode_title": "E3",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/3",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/4",
+                        "duration": "--:--",
+                        "episode_title": "E4",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/4",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/5",
+                        "duration": "--:--",
+                        "episode_title": "E5",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/5",
+                        "view": 0
+                    },
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/6",
+                        "duration": "--:--",
+                        "episode_title": "E6",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/6",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "As a thousand-year-old curse resurfaces in modern Bengal, tantric investigator Krishnananda Agambagish races against time to confront a reborn evil and uncover a prophecy rooted in forbidden rituals and divine wrath.",
+        "title": "Roktofolok (2026)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
         "director": "Debaloy Bhattacharya, Ayan Chakroborty",
         "genre": [
             "Comedy"
@@ -2129,118 +2353,6 @@
         "status": "on",
         "storyline": "A simple village girl - or a bombshell in disguise? Phulwa is the new Boudi in town, and she's here to keep them awake all night!",
         "title": "Dupur Thakurpo (2017)",
-        "triler": ""
-    },
-    {
-        "category": "Hoichoi",
-        "director": "Parambrata Chatterjee",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
-        "premium": true,
-        "quality": "1080p",
-        "releaseDate": "2026",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/1",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/2",
-                        "duration": "--:--",
-                        "episode_title": "E2",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/2",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/3",
-                        "duration": "--:--",
-                        "episode_title": "E3",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/3",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/4",
-                        "duration": "--:--",
-                        "episode_title": "E4",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/4",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/5",
-                        "duration": "--:--",
-                        "episode_title": "E5",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/5",
-                        "view": 0
-                    },
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/6",
-                        "duration": "--:--",
-                        "episode_title": "E6",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/25roIjrV6SXDo9rnfE9LpeVUZ3i.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/69f4e132f525f886873f785a/1/6",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "As a thousand-year-old curse resurfaces in modern Bengal, tantric investigator Krishnananda Agambagish races against time to confront a reborn evil and uncover a prophecy rooted in forbidden rituals and divine wrath.",
-        "title": "Roktofolok (2026)",
         "triler": ""
     },
     {
@@ -4555,48 +4667,6 @@
     },
     {
         "category": "Hoichoi",
-        "director": "Anam Biswas",
-        "genre": [
-            "Crime"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGMZdYkVS6hgQqE5pLp5NyVuydP.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755618ea6f679272b2d8891/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGMZdYkVS6hgQqE5pLp5NyVuydP.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755618ea6f679272b2d8891/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "A local goon in Barisal vows to his expecting wife to abandon his life of crime. However, fate deals a cruel blow as he finds himself falsely implicated in a high-profile murder and is forced to be on the run with his wife, as the law and an unknown nemesis close in on them!",
-        "title": "Rongila Kitab | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hoichoi",
         "director": "Durbar Sharma",
         "genre": [
             "Drama"
@@ -4635,6 +4705,48 @@
         "status": "on",
         "storyline": "A budding romance stirs up an all-out war between two rival families in the little hamlet of Talma, where a shocking twist flips everything upside down. Will love conquer all, or will history repeat its tragic end in this quirky twist on William Shakespeare's classic?",
         "title": "Talmar Romeo Juliet | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
+        "director": "Anam Biswas",
+        "genre": [
+            "Crime"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGMZdYkVS6hgQqE5pLp5NyVuydP.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6755618ea6f679272b2d8891/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGMZdYkVS6hgQqE5pLp5NyVuydP.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6755618ea6f679272b2d8891/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "A local goon in Barisal vows to his expecting wife to abandon his life of crime. However, fate deals a cruel blow as he finds himself falsely implicated in a high-profile murder and is forced to be on the run with his wife, as the law and an unknown nemesis close in on them!",
+        "title": "Rongila Kitab | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -4723,6 +4835,90 @@
     },
     {
         "category": "Hoichoi",
+        "director": "Shihab Shaheen",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/unTOmIagT9Np4BkXUOrqjZCintN.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67555feda8919c414d66e5a4/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/unTOmIagT9Np4BkXUOrqjZCintN.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67555feda8919c414d66e5a4/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Mamun, the prime suspect in a double murder, faces off with a serial killer and the system to which he has dedicated his life, while the clock keeps ticking on his quest to prove his innocence.",
+        "title": "Golam Mamun | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
+        "director": "Sauvik Kundu",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Kaberi, a severely oppressed woman on the run from her abusive husband, develops a special bond with Shampa, one of her students. When Shampa faces an evil conspiracy, Kaberi's quest to save her becomes the fight for her own existence.",
+        "title": "Kaberi | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Hoichoi",
         "director": "N/A",
         "genre": [
             "Drama"
@@ -4804,90 +5000,6 @@
         "status": "on",
         "storyline": "When Bijoya's son slips into a coma after suffering a suspicious fall at his college, the resolute mother pulls all stops to uncover a cycle of ragging and corruption and bring justice to her son.",
         "title": "Bijoya | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hoichoi",
-        "director": "Shihab Shaheen",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/unTOmIagT9Np4BkXUOrqjZCintN.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67555feda8919c414d66e5a4/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/unTOmIagT9Np4BkXUOrqjZCintN.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67555feda8919c414d66e5a4/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Mamun, the prime suspect in a double murder, faces off with a serial killer and the system to which he has dedicated his life, while the clock keeps ticking on his quest to prove his innocence.",
-        "title": "Golam Mamun | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Hoichoi",
-        "director": "Sauvik Kundu",
-        "genre": [
-            "Unknown"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jBf0VVymXv9FMeVyXNKUxift0m.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67556000f1df135d5ee5aff8/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Kaberi, a severely oppressed woman on the run from her abusive husband, develops a special bond with Shampa, one of her students. When Shampa faces an evil conspiracy, Kaberi's quest to save her becomes the fight for her own existence.",
-        "title": "Kaberi | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {

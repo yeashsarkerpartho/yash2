@@ -3955,6 +3955,50 @@
         "category": "Mxplayer",
         "director": "N/A",
         "genre": [
+            "Drama",
+            "Crime",
+            "Action & Adventure"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L1T7BIgEuTm8gBhYzyWMuJnHIT.jpg",
+        "premium": true,
+        "quality": "720p",
+        "releaseDate": "2025",
+        "resolution": "720p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6787a67983925934034d300e/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L1T7BIgEuTm8gBhYzyWMuJnHIT.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6787a67983925934034d300e/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "Inspired by real incidents and based on a book Cages by Abid Surti - Chidiya Udd is a story of struggle and fighting all odds told from the eyes of the protagonist, a 20-year-old Seher, who hails from Rajasthan. We follow her journey to Mumbai with a dream of making it in the big city. Set against the backdrop of gang wars and a dark underbelly of crime, will Seher survive Bombay?",
+        "title": "Chidiya Udd | SE1EP1 | S01 (2025)",
+        "triler": ""
+    },
+    {
+        "category": "Mxplayer",
+        "director": "N/A",
+        "genre": [
             "Drama"
         ],
         "imdbRating": 0.0,
@@ -4005,50 +4049,6 @@
         "status": "on",
         "storyline": "Two contrasting worlds collide when an aspiring content creator Kritika and social media-averse CA, Manav find themselves stuck together thanks to an unexpected encounter. A viral video of their unique banter becomes the foundation of an unconventional partnership, where they have nothing in common, common except the fact that they agree to disagree on everything. As they become unlikely best friends offline, they pretend to be a fake couple online for the sake of their followers, who perceive them as a couple and as their fandom explodes they become an internet sensation.",
         "title": "Ek Farzi Love Story-E10 (2025)",
-        "triler": ""
-    },
-    {
-        "category": "Mxplayer",
-        "director": "N/A",
-        "genre": [
-            "Drama",
-            "Crime",
-            "Action & Adventure"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L1T7BIgEuTm8gBhYzyWMuJnHIT.jpg",
-        "premium": true,
-        "quality": "720p",
-        "releaseDate": "2025",
-        "resolution": "720p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/6787a67983925934034d300e/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L1T7BIgEuTm8gBhYzyWMuJnHIT.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/6787a67983925934034d300e/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Inspired by real incidents and based on a book Cages by Abid Surti - Chidiya Udd is a story of struggle and fighting all odds told from the eyes of the protagonist, a 20-year-old Seher, who hails from Rajasthan. We follow her journey to Mumbai with a dream of making it in the big city. Set against the backdrop of gang wars and a dark underbelly of crime, will Seher survive Bombay?",
-        "title": "Chidiya Udd | SE1EP1 | S01 (2025)",
         "triler": ""
     },
     {

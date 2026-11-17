@@ -2440,48 +2440,6 @@
     },
     {
         "category": "Sonyliv",
-        "director": "N/A",
-        "genre": [
-            "Drama"
-        ],
-        "imdbRating": 0.0,
-        "imdbVotes": 0,
-        "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
-        "premium": true,
-        "quality": "HD",
-        "releaseDate": "2024",
-        "resolution": "1080p",
-        "seasons": [
-            {
-                "episodes": [
-                    {
-                        "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
-                        "duration": "--:--",
-                        "episode_title": "E1",
-                        "headers": {
-                            "Referer": "https://m.mymoviebazar.net/",
-                            "Origin": "",
-                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
-                        },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
-                        "view": 0
-                    }
-                ],
-                "season_title": "Season 1"
-            }
-        ],
-        "sliderStatus": "off",
-        "sliderUrl": "",
-        "status": "on",
-        "storyline": "Balu, Ravi and Meenakshi, three employees at an IT company, are desperate to be 'benched', each for their own personal reasons. However, when confronted by their flaws, can each of them learn to overcome their issues and grow? 'Bench Life' stars Dr. Rajendra Prasad, Vaibhav, Charan Peri, Ritika Singh, Aakanksha Singh, Nayan Sarika, Venkatesh Kakumanu and Tanikella Bharani.",
-        "title": "Bench Life | SE1EP1 | S01 (2024)",
-        "triler": ""
-    },
-    {
-        "category": "Sonyliv",
         "director": "Surya Manoj Vangala",
         "genre": [
             "Crime",
@@ -2527,12 +2485,12 @@
         "category": "Sonyliv",
         "director": "N/A",
         "genre": [
-            "Unknown"
+            "Drama"
         ],
         "imdbRating": 0.0,
         "imdbVotes": 0,
         "language": "Unknown",
-        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
         "premium": true,
         "quality": "HD",
         "releaseDate": "2024",
@@ -2542,7 +2500,7 @@
                 "episodes": [
                     {
                         "downStatus": "off",
-                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
                         "duration": "--:--",
                         "episode_title": "E1",
                         "headers": {
@@ -2550,8 +2508,8 @@
                             "Origin": "",
                             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
                         },
-                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
-                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sq5twSrJQzVNTXCQGHQGDoQFBG.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/67535a15f1df135d5ee37c15/1/1",
                         "view": 0
                     }
                 ],
@@ -2561,8 +2519,8 @@
         "sliderStatus": "off",
         "sliderUrl": "",
         "status": "on",
-        "storyline": "A young boy navigating the complexities of childhood in a simpler time, as he embarks on a quest for identity and belonging.",
-        "title": "Lampan | SE1EP1 | S01 (2024)",
+        "storyline": "Balu, Ravi and Meenakshi, three employees at an IT company, are desperate to be 'benched', each for their own personal reasons. However, when confronted by their flaws, can each of them learn to overcome their issues and grow? 'Bench Life' stars Dr. Rajendra Prasad, Vaibhav, Charan Peri, Ritika Singh, Aakanksha Singh, Nayan Sarika, Venkatesh Kakumanu and Tanikella Bharani.",
+        "title": "Bench Life | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
@@ -2606,6 +2564,48 @@
         "status": "on",
         "storyline": "When Mahendran, a corrupt and manipulative deputy Thasildar, believes in getting things done through powerplay and influence within the system, becomes the victim of his own plans to sabotage an entire system in an attempt to safeguard his job and restore his reputation.",
         "title": "Jai Mahendran | SE1EP1 | S01 (2024)",
+        "triler": ""
+    },
+    {
+        "category": "Sonyliv",
+        "director": "N/A",
+        "genre": [
+            "Unknown"
+        ],
+        "imdbRating": 0.0,
+        "imdbVotes": 0,
+        "language": "Unknown",
+        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
+        "premium": true,
+        "quality": "HD",
+        "releaseDate": "2024",
+        "resolution": "1080p",
+        "seasons": [
+            {
+                "episodes": [
+                    {
+                        "downStatus": "off",
+                        "downUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
+                        "duration": "--:--",
+                        "episode_title": "E1",
+                        "headers": {
+                            "Referer": "https://m.mymoviebazar.net/",
+                            "Origin": "",
+                            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                        },
+                        "posterUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s26q3xclWC8bAybilg4yWlvRT6j.jpg",
+                        "streamUrl": "https://m.mymoviebazar.net/api/series/watch/675358451bd06316f74937b4/1/1",
+                        "view": 0
+                    }
+                ],
+                "season_title": "Season 1"
+            }
+        ],
+        "sliderStatus": "off",
+        "sliderUrl": "",
+        "status": "on",
+        "storyline": "A young boy navigating the complexities of childhood in a simpler time, as he embarks on a quest for identity and belonging.",
+        "title": "Lampan | SE1EP1 | S01 (2024)",
         "triler": ""
     },
     {
